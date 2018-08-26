@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nixon King Ko",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://nixonkingko.github.io/images/nixon.png",
+    "email": "nkko@hawaii.edu",
+    "phone": "808-226-7667",
+    "website": "https://nixonkingko.github.io",
+    "summary": "I am a transfer student who pursue the B.S. in Computer Science at UH Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "nixonkingko",
+        "url": "http://github.com/nixonkingko"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "nkko@hawaii.edu",
+        "url": "http://linkedin.com/in/nixon-king-76126b16b/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Mobile App Development",
       "keywords": [
       ]
     }
