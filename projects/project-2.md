@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+publish: false
 image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
