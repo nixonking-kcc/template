@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/atnt2.png
 title: Hackathon
-//permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-09
 labels:
@@ -27,4 +26,4 @@ As this is my first real-life experiences in-participating this kind of activity
 
 The source code for this project is on [github@bigdimsum](https://github.com/bigdimsum/dimsum/tree/master/src/template)
 
-Here is the link on how we create the circles point[  [circle-simple](https://developers.google.com/maps/documentation/javascript/examples/circle-simple).
+Here is the link on how we create the circles' point[google@circle-simple](https://developers.google.com/maps/documentation/javascript/examples/circle-simple).
