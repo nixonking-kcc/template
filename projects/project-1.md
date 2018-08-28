@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
