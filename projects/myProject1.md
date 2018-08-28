@@ -16,10 +16,12 @@ labels:
 summary: Hackathon is a full 48 hours working on group project. It's a coding competition that involves software developers, designers, software engineering, or even students to build something interesting.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/atnt2.png">
-  <img class="ui image" src="../images/map.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/atnt2.png">
+<img class="ui large bottom floated rounded image" src="../images/map.png">
+//<div class="ui small rounded images">
+//  <img class="ui image" src="../images/atnt2.png">
+//  <img class="ui image" src="../images/map.png">
+//</div>
 
 Before the activity started, I had to introduce briefly about the Hackathon. It was a 48 hours (2 days) competition designed for people (in a group of 4 or 5person) to build anything related to the mobile apps, game design, web development, etc. This competition required competitors to bring their laptops, skills, and ideas. I joined this Hackathon which was represented by the AT&T Developer Program in Hawaii.
 
