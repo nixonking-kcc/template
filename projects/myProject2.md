@@ -14,7 +14,7 @@ labels:
 summary: Knowing the function of the algorithms to sorts the text files using C/C++ programming languages.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/sorting.PNG">
+<img class="ui large right floated rounded image" src="../images/sorting.PNG">
 
 This assignment is obtained in my ICS 212 class which is basically focusing more on C/C++ programming language. The instruction is to write a program in which can sorts the text files by a given file from my instructor. In the file, the English and Japanese with the same word are separated by a tab(‘\t’). However, the English part is not being sorted yet. Therefore, the goal of this assignment is to understand by writing a program using the proper function in order to sort all of the English words from those text files. 
 
