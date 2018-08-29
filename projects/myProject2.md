@@ -4,7 +4,7 @@ type: project
 image: images/sorting.PNG
 title: Sort the Text Files
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-04-28
 labels:
   - C
   - C++
@@ -24,7 +24,7 @@ The rest was just filler, for example, I had to add the ifstream class so that i
 
 Overall, I have learned a lot about how sorting text files works from this assignment. It makes me really understand all the needed functions to break the line into parts, like English part, Japanese part, and sort field. Also, I feel that understanding the substring is crucial.
 
-Here is my brief example of codes on how I break the line into 3 parts with using substring for each part and display the sorted for the English and Japanese parts in my sorted Entry objects.
+Here is my brief example of codes on how I break the line into 3 parts with using substring for each part and display the sorted for the English and Japanese parts in my sorted Entry objects:
 ```js
 125     while(!fileInputStream.eof()){
 126         //Break the line into three parts as described on the assignment webpage. 
