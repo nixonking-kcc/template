@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: JavaScript makes perfect!
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-31
+date: 2018-08-31
 labels:
   - JavaScript
   - Software Engineering
