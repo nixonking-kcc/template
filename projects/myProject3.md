@@ -16,7 +16,7 @@ summary: My project in ICS 211 that will simulate the Pokemon Go (Text-Based) us
 
 <img class="ui large right floated rounded image" src="../images/poke-1.png">
 <img class="ui large right floated rounded image" src="../images/poke-3.png">
-<img class="ui medium bottom floated rounded image" src="../images/poke-2.png">
+<img class="ui small right floated rounded image" src="../images/poke-2.png">
 
 Have you ever heard of Pokémon Go? Yes, it is an AR mobile game that has become popular since it was released in 2016. In my ICS 211, I had to write a program in java that will simulate the process of how this game actually works. 
 
