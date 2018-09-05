@@ -24,6 +24,6 @@ In the driver program, it is basically asking the user to catch Pokémon (add Po
 
 Based on the experience that I had for this project, I have learned a lot from this assignment.  It taught me how actually the binary search trees works, binary tree traversals, recursive method, and a method that will add/remove Pokémon’s objects. Also, it had improved my skills in analyzing and communicating with other students by using GitHub as it was the requirement of this course to be applied in the project.
 
-Here is the source code for this project [MyGitHub](https://github.com/nixonkingko/a7-pokedex-poketree-f17-nixonking-kcc/tree/develop)
+Here is the source code for this project [MyGitHub](https://github.com/nixonkingko/a7-pokedex-poketree-f17-nixonking-kcc/blob/develop/Pokedex.java)
 
 
