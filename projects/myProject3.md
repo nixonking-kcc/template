@@ -14,8 +14,8 @@ labels:
 summary: My project in ICS 211 that will simulate the Pokemon Go (Text-Based) using Binary Search Tree.
 ---
 
-<img class="ui large right floated rounded image" src="../images/poke-1.png">
-<img class="ui large right floated rounded image" src="../images/poke-3.png">
+<img class="ui medium right floated rounded image" src="../images/poke-1.png">
+<img class="ui medium right floated rounded image" src="../images/poke-3.png">
 <img class="ui medium right floated rounded image" src="../images/poke-2.png">
 
 Have you ever heard of Pokémon Go? Yes, it is an AR mobile game that has become popular since it was released in 2016. In my ICS 211, I had to write a program in java that will simulate the process of how this game actually works. 
@@ -24,6 +24,4 @@ In the driver program, it is basically asking the user to catch Pokémon (add Po
 
 Based on the experience that I had for this project, I have learned a lot from this assignment.  It taught me how actually the binary search trees works, binary tree traversals, recursive method, and a method that will add/remove Pokémon’s objects. Also, it had improved my skills in analyzing and communicating with other students by using GitHub as it was the requirement of this course to be applied in the project.
 
-Here is the source code for this project [github@pokedex](https://github.com/nixonkingko/a7-pokedex-poketree-f17-nixonking-kcc/tree/develop)
-
-
+Here is the source code for this project:
