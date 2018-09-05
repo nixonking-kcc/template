@@ -24,4 +24,69 @@ In the driver program, it is basically asking the user to catch Pokémon (add Po
 
 Based on the experience that I had for this project, I have learned a lot from this assignment.  It taught me how actually the binary search trees works, binary tree traversals, recursive method, and a method that will add/remove Pokémon’s objects. Also, it had improved my skills in analyzing and communicating with other students by using GitHub as it was the requirement of this course to be applied in the project.
 
-Here is the source code for this project:
+Here is the code for the driver to test generic class for a binary search tree.
+```js
+import java.util.*;
+public class Pokedex { 
+   /** Program that will list the binary search tree for pokemon.
+   *@param arg no used
+   */  
+   public static void main(String [] arg) {
+      PokeTree tree = new PokeTree();
+      Scanner userIn = new Scanner(System.in);
+      String inString = new String("");
+      boolean endLoop = false;
+   
+      //loop until stopping condition is given
+      while (!endLoop) { //menu text
+         System.out.println("Please enter the number of your choice:");
+         System.out.println("1. Catch Pokemon");
+         System.out.println("2. Trade Pokemon");
+         System.out.println("3. Print Pokedex");
+         System.out.println("0. Quit");
+         System.out.print("What would you like to do? ");
+              
+         //read in from user as a String -- much less errors can happen!
+         inString = userIn.nextLine();
+         
+         //take off any spaces on the string
+         inString = inString.trim();
+        
+         //just switch on the String no need to convert to int
+         switch(inString) {
+            case "0": endLoop = true;
+               System.out.println("Good bye!");
+               break;
+         
+            case "1": 
+               tree.add(makePokemon());              
+               break;
+         
+         //print out the array for all the Pokemon
+            case "2" :
+               try {
+                  tree.remove(makePokemon());   
+               }
+               catch (TreeException te) {
+                  System.out.print("You have not captured ");
+                  System.out.println("this type of pokemon yet");
+                  System.out.print("Please catch your Pokemon ");
+                  System.out.println("first from number 1\n");
+               }       
+               break;   
+          
+          
+           //print out the array for all the Pokemon
+            case "3" :
+               System.out.println(tree);           
+               break;  
+               
+            default: //not a valid menu entry
+               System.out.println("\n****Invalid menu choice.****");
+               System.out.println("Please enter a 0, 1,2 or 3\n");
+               break; 
+         } //close switch       
+      } //close while
+   } //main method
+
+```
