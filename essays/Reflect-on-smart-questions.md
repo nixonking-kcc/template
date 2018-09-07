@@ -11,7 +11,7 @@ labels:
   - Computer Science
 ---
 
-<img class="ui small right floated rounded image" src="../images/smartquestionbg.PNG">
+<img class="ui medium left floated rounded image" src="../images/smartquestionbg.PNG">
 
 Smart questions are the structured and organized questions with full descriptions of the questions being asked. They will be easily understood by the readers and might have many different solutions for that same question. The dumb questions are not completely describing the problems and kind of vagueness involved. Most of the educated people tend to ask smart questions rather than dumb ones as they have a higher IQ and EQ compared to uneducated people. Today, people are exploring the open sources to get their solutions on all types of questions such as GitHub and StackOverflow. Even the questions are kind of smart or dumb, the open sources are the best places to get the answers.  
 
