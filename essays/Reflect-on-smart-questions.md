@@ -15,7 +15,7 @@ Smart questions are the structured and organized questions with full description
 
 ## The way of asking smart questions
 
-In this link: [How To Ask Questions The Smart Way])(http://www.catb.org/esr/faqs/smart-questions.html) created by Eric Steven Raymond, described that smart questions will get satisfactory answers. This indicates that he totally agree that people should ask smart questions in order to be quickly responded by the readers. In smart questions, the problems must be described as precise and informative as possible for the receivers to respond. He emphasized that some questions should be avoided as they are dumb questions but some rules had to be followed for eliminating the obstacles in asking the smart questions.
+In this link: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) created by Eric Steven Raymond, described that smart questions will get satisfactory answers. This indicates that he totally agree that people should ask smart questions in order to be quickly responded by the readers. In smart questions, the problems must be described as precise and informative as possible for the receivers to respond. He emphasized that some questions should be avoided as they are dumb questions but some rules had to be followed for eliminating the obstacles in asking the smart questions.
 
 ## A solution of the smart question
 
