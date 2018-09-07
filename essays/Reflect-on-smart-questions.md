@@ -11,6 +11,8 @@ labels:
   - Computer Science
 ---
 
+<img class="ui small right floated rounded image" src="../images/smartquestionbg.PNG">
+
 Smart questions are the structured and organized questions with full descriptions of the questions being asked. They will be easily understood by the readers and might have many different solutions for that same question. The dumb questions are not completely describing the problems and kind of vagueness involved. Most of the educated people tend to ask smart questions rather than dumb ones as they have a higher IQ and EQ compared to uneducated people. Today, people are exploring the open sources to get their solutions on all types of questions such as GitHub and StackOverflow. Even the questions are kind of smart or dumb, the open sources are the best places to get the answers.  
 
 ## The way of asking smart questions
@@ -19,7 +21,7 @@ In this link: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/
 
 ## A solution of the smart question
 
-As mentioned above, a smart question usually has many solutions for the answer, and many people will try to assist in solving that type of question. The example of the smart question as quoted by Jschrab is “What is the most efficient way to deep clone an object in JavaScript?” Here is the link for his smart question: [link](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
+As mentioned above, a smart question usually has many solutions for the answer, and many people will try to assist in solving that type of question. The example of the smart question as quoted by Jschrab is “What is the most efficient way to deep clone an object in JavaScript?” Here is the link for his smart question: [link1](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
 
 Most of the solution is explaining on how to solve the problems by using some steps to be taken. In this case, this smart question will not be misinterpreted or misunderstood as they have described precisely what is involving in the problem. In this question, most readers reply by using technical support in solving the problem. Then, Jschrab will be able to choose the best solutions for his smart question.
 
