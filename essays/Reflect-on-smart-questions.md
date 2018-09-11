@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Smart Against Dumb Questions
+title: The Smart Against The Dumb Questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
