@@ -19,14 +19,14 @@ Smart questions are the structured and organized questions with full description
 
 In this link: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) created by Eric Steven Raymond, described that smart questions will get satisfactory answers. This indicates that he totally agree that people should ask smart questions in order to be quickly responded by the readers. In smart questions, the problems must be described as precise and informative as possible for the receivers to respond. He emphasized that some questions should be avoided as they are dumb questions but some rules had to be followed for eliminating the obstacles in asking the smart questions.
 
-## A solution of the smart question
+## A solution for smart question
 
 As mentioned above, a smart question usually has many solutions for the answer, and many people will try to assist in solving that type of question. The example of the smart question as quoted by Jschrab is “What is the most efficient way to deep clone an object in JavaScript?” Here is the link for his smart question: [link1](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
 
 Most of the solution is explaining on how to solve the problems by using some steps to be taken. In this case, this smart question will not be misinterpreted or misunderstood as they have described precisely what is involving in the problem. In this question, most readers reply by using technical support in solving the problem. Then, Jschrab will be able to choose the best solutions for his smart question.
 
 
-## A solution of the dumb question
+## A solution for dumb question
 
 When a person asked a dumb question, he or she might get the answer but it will be a vague solution. Usually, the people asked this dumb question due to their ignorance of the subject involved but they feel that they do not want to be left out from the forum or community. Then, they create this type of dumb questions. The example of dumb question quoted by User456814 is “How do JavaScript closure work?” Here is the link to that dumb question: [link2](https://meta.stackoverflow.com/questions/262518/should-how-do-javascript-closures-work-be-locked-as-a-community-wiki-no-furt). It shows that readers’ responses are funny and awkward as it is vague and the information on the problem is not complete.  Some of the readers have requested for the removal of this dumb question.
 
