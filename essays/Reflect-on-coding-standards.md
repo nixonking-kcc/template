@@ -12,9 +12,9 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="ui medium left floated rounded image" src="../images/eslint.png">
-
 ## Same coding standards for a project
+
+<img class="ui medium left floated rounded image" src="../images/eslint.png">
 
 Coding standards are guidelines for coding styles in writing the codes. The programmers have their own preferred styles but they have to adhere to coding standards when writing the source code for a project. Thus, the coding standard for each project will be the same and easily understood by the team members. It is important to have coding standards as it brings ease in deciphering all the codes for the team programmers as they have the same coding standards.
 
@@ -22,7 +22,7 @@ However, the most important when the code is able to run otherwise it is useless
 
 ## ESLint Coding standards with IntelliJ
 
-<img class="ui medium left rounded image" src="../images/eslint2.jpg">
+<img class="ui medium right rounded image" src="../images/eslint2.jpg">
 
 In the software engineering classes such as ESLint, coding standards are being applied in order for the students to understand one another’s code faster and uses the same type of codes. If we see the same written codes, we will be familiar and be able to decipher any differences made in the programs. There is a green check mark when we are using the correct coding standards otherwise it will show the red lines for every line that indicate errors in coding. 
 
