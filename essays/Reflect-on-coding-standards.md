@@ -22,7 +22,7 @@ However, the most important when the code is able to run otherwise it is useless
 
 ## ESLint Coding standards with IntelliJ
 
-<img class="ui medium right rounded image" src="../images/eslint2.jpg">
+<img class="ui medium right floated rounded image" src="../images/eslint2.jpg">
 
 In the software engineering classes such as ESLint, coding standards are being applied in order for the students to understand one another’s code faster and uses the same type of codes. If we see the same written codes, we will be familiar and be able to decipher any differences made in the programs. There is a green check mark when we are using the correct coding standards otherwise it will show the red lines for every line that indicate errors in coding. 
 
