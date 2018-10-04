@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Interesting Features of Semantic UI
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-4
+date: 2018-10-04
 labels:
   - Semantic UI
   - Learning
