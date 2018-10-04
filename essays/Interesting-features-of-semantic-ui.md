@@ -12,7 +12,7 @@ labels:
   - Advantages
 ---
 
-<img class="ui medium left floated rounded image" src="../images/semantic.png">
+<img class="ui medium right floated rounded image" src="../images/semantic.png">
 
 ## Advantages of Semantics UI and UI Framework
 
