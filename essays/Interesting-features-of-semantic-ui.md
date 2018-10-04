@@ -16,7 +16,7 @@ labels:
 
 The modern and interactive appearances are the essential factors in website development. In developing a website or an app, it must consider the comfort of the users by creating an attractive appearance and design. Semantic UI is a front-end of HTML and CSS frameworks which can be used in the design and template to simplify and accelerate the time for creating a dynamic website. It assists in creating good and responsive layouts of the projects on the web.
 
-.  It consists of codes and classes that are easy to modify by its relationship, easy to understand and compatible with templates from other frameworks. It has the elegant appearance and the semantic class name is easy to understand. This class name does not use abbreviations which make it easier to be understood by any designers or programmers to implement adjustments as when reading it is identical to one sentence.
+It consists of codes and classes that are easy to modify by its relationship, easy to understand and compatible with templates from other frameworks. It has the elegant appearance and the semantic class name is easy to understand. This class name does not use abbreviations which make it easier to be understood by any designers or programmers to implement adjustments as when reading it is identical to one sentence.
 
 ## Semantic UI as an Alternative Web Design
 
