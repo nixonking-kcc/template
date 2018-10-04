@@ -12,6 +12,8 @@ labels:
   - Advantages
 ---
 
+<img class="ui medium left floated rounded image" src="../images/semantic.png">
+
 ## Advantages of Semantics UI and UI Framework
 
 The modern and interactive appearances are the essential factors in website development. In developing a website or an app, it must consider the comfort of the users by creating an attractive appearance and design. Semantic UI is a front-end of HTML and CSS frameworks which can be used in the design and template to simplify and accelerate the time for creating a dynamic website. It assists in creating good and responsive layouts of the projects on the web.
