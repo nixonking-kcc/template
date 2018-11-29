@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Pattern in Sport
 # All dates must be YYYY-MM-DD format!
-date: 2018-29-11
+date: 2018-11-29
 labels:
   - Design Patterns
   - Experiences
