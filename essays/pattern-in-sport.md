@@ -16,7 +16,7 @@ labels:
 When a software developer stumbles upon a problem which is continuously the same in writing or coding activities during developing software or application in a project then, a design pattern is required for solving the problems which are similar to the concept or template to be applied and used in the programming languages. It is only effective when the developer ever encounters the previous problem by trial and error in developing the software or applications. 
 
 In The Gang of Four, there are 23 design patterns which are divided into 3 groups, namely:
-<img class="ui small right floated rounded image" src="../images/design3.jpg">
+<img class="ui medium right floated rounded image" src="../images/design3.jpg">
 
 1. Creational Pattern is a pattern used to solve problems encountered in the event of making an instance or object. 
 2. Behavioral Pattern is a pattern used to solve problems encountered in communication between objects or classes.
