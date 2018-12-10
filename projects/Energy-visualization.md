@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hacc.PNG
+image: images/hacc-main.PNG
 title: Nana-Ikehu (Energy Visualization)
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-12
@@ -29,4 +29,5 @@ This project consists of four people with individually contributing their though
 In this project, it elevates my ability in implementing the Meteor application to be executed in the program. Although there is a time constraint in this project, my team has managed to finish it in a timely manner due to good teamwork among us. Also, it improves my software engineering practices in developing the Meteor application being implemented to the project. 
 
 Here is the [link](http://nanaikehu1.meteorapp.com/#/) for the deployment.
+
 Here is the source code for this project: [github@nanaikehu](https://github.com/nanaikehu/Nana-Ikehu)
