@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hacc-1.PNG
+image: images/hacc-2.PNG
 title: Nana-Ikehu (Energy Visualization)
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-12
